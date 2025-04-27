@@ -1,0 +1,19 @@
+{
+  "test_dungeon": [
+    { "action": "forward" },
+    { "action": "left" },
+    { "action": "turnRight" },
+    { "action": "attackMonster" },
+    { "action": "forward" }
+  ],
+  "circle_example": [
+    { "action": "forward" },
+    { "action": "turnRight" },
+    { "action": "forward" },
+    { "action": "turnRight" },
+    { "action": "forward" },
+    { "action": "turnRight" },
+    { "action": "forward" },
+    { "action": "turnRight" }
+  ]
+}
