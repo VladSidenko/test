@@ -1,8 +1,51 @@
-"dungeon_custom_1": [
+{
+  "ptp_1_etazh": [
+    {"action": "forward"}, {"action": "forward"}, {"action": "turnLeft"},
+    {"action": "forward"}, {"action": "turnRight"}, {"action": "forward"},
+    {"action": "forward"}, {"action": "turnRight"}, {"action": "forward"},
+    {"action": "turnRight"}, {"action": "forward"}, {"action": "forward"},
+    {"action": "forward"}, {"action": "turnLeft"}, {"action": "forward"},
+    {"action": "turnLeft"}, {"action": "forward"}, {"action": "forward"},
+    {"action": "turnRight"}, {"action": "forward"}, {"action": "turnRight"},
+    {"action": "forward"}, {"action": "forward"}, {"action": "turnLeft"},
+    {"action": "forward"}, {"action": "forward"}, {"action": "turnLeft"},
+    {"action": "forward"}, {"action": "turnRight"}, {"action": "forward"},
+    {"action": "forward"}, {"action": "forward"}, {"action": "turnRight"},
+    {"action": "forward"}, {"action": "turnRight"}, {"action": "forward"},
+    {"action": "forward"}, {"action": "turnLeft"}, {"action": "forward"},
+    {"action": "turnRight"}, {"action": "forward"}, {"action": "turnLeft"},
+    {"action": "forward"}, {"action": "forward"}, {"action": "turnRight"},
+    {"action": "forward"}, {"action": "turnRight"}, {"action": "forward"},
+    {"action": "forward"}, {"action": "forward"}, {"action": "turnLeft"},
+    {"action": "forward"}, {"action": "forward"}, {"action": "turnLeft"},
+    {"action": "forward"}, {"action": "forward"}, {"action": "forward"},
+    {"action": "forward"}, {"action": "turnRight"}, {"action": "forward"},
+    {"action": "turnLeft"}, {"action": "forward"}, {"action": "turnLeft"},
+    {"action": "forward"}, {"action": "forward"}, {"action": "turnRight"},
+    {"action": "forward"}, {"action": "forward"}
+  ],
+  "test_dungeon": [
+    {"action": "forward"},
+    {"action": "left"},
+    {"action": "turnRight"},
+    {"action": "attackMonster"},
+    {"action": "forward"}
+  ],
+  "circle_example": [
+    {"action": "forward"},
+    {"action": "turnRight"},
+    {"action": "forward"},
+    {"action": "turnRight"},
+    {"action": "forward"},
+    {"action": "turnRight"},
+    {"action": "forward"},
+    {"action": "turnRight"}
+  ],
+  "dungeon_custom_1": [
   { "step": 1, "action": "forward" },
   { "step": 2, "action": "turnRight" },
   { "step": 3, "action": "forward" },
-  { "step": 4, "action": "forward" },       // 🔼 добавлен новый шаг
+  { "step": 4, "action": "forward", "note": "добавлен вручную между 3 и 4" },
   { "step": 5, "action": "turnLeft" },
   { "step": 6, "action": "forward" },
   { "step": 7, "action": "forward" },
@@ -54,3 +97,6 @@
   { "step": 53, "action": "turnRight" },
   { "step": 54, "action": "forward" }
 ]
+
+
+}
