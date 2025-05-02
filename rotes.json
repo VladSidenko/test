@@ -97,6 +97,4 @@
   { "step": 53, "action": "turnRight" },
   { "step": 54, "action": "forward" }
 ]
-
-
 }
