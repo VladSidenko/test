@@ -146,10 +146,11 @@
     { "step": 78, "action": "turnLeft" },
     { "step": 79, "action": "forward" },
     { "step": 80, "action": "forward" },
-    { "step": 81, "action": "turnRight" },
-    { "step": 82, "action": "forward" },
-    { "step": 83, "action": "turnLeft" },
+    { "step": 81, "action": "forward" },
+    { "step": 82, "action": "turnRight" },
+    { "step": 83, "action": "forward" },
     { "step": 84, "action": "turnLeft" },
-    { "step": 85, "action": "forward" }
+    { "step": 85, "action": "turnLeft" },
+    { "step": 86, "action": "forward" }
   ]
 }
