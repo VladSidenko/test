@@ -45,7 +45,7 @@
     { "step": 1, "action": "forward" },
     { "step": 2, "action": "turnRight" },
     { "step": 3, "action": "forward" },
-    { "step": 4, "action": "forward", "note": "добавлен вручную между 3 и 4" },
+    { "step": 4, "action": "forward" },
     { "step": 5, "action": "turnLeft" },
     { "step": 6, "action": "forward" },
     { "step": 7, "action": "forward" },
