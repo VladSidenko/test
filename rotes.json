@@ -60,5 +60,4 @@
     [{"step": 222, "action": "turnRight"}, {"step": 223, "action": "forward"}, {"step": 224, "action": "forward"}, {"step": 225, "action": "turnRight"}, {"step": 226, "action": "forward"}],
     [{"step": 227, "action": "turnLeft"}, {"step": 228, "action": "forward"}, {"step": 229, "action": "forward"}, {"step": 230, "action": "turnLeft"}, {"step": 231, "action": "forward"}],
     [{"step": 232, "action": "turnRight"}, {"step": 233, "action": "forward"}, {"step": 234, "action": "forward"}]
-
 }
